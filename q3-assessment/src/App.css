@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  margin: 1vh;
+}
+
+.productImg {
+  height: 150px;
+}
+
+.product {
+  margin-top: 2vh;
+}
+
+.productDisplay {
+  flex: 2;
+}
+
+.cart {
+  flex: 1;
+  margin-left: 2vh;
+  height: auto;
+  padding: 20px;
+}
